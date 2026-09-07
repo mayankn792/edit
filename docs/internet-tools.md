@@ -857,6 +857,7 @@
 * [WebArchive.io](https://www.webarchive.io/) - Archive Web Pages
 * [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page) - Archiving Project / Wiki / Full Site Archive
 * [Perma.cc](https://perma.cc/) - Create Permalinks
+* [Broken Link Recovery](https://brokenlinkrecovery.com/) - A lightweight client built on top of the Web Archive
 
 ***
 

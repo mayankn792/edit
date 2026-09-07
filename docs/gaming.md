@@ -662,6 +662,7 @@
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - Retro-Style Chess
 * [Chesses](https://pippinbarr.com/chesses/), [TheChessDirectory](https://thechessdirectory.com/play-chess) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [Print Chess](https://www.printchess.com/) - Printable Paper Chess Set
+* [Back Rank Chess](http://playbackrankchess.com/) - Arrange your pieces in home rank
 
 ***
 
